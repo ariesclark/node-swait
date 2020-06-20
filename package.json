@@ -1,0 +1,27 @@
+{
+  "name": "swait",
+  "version": "0.0.1",
+  "description": "Synchronously wait for Promises to resolve.",
+  "main": "src/index.js",
+  "engines" : {
+    "node" : ">=12.0.0"
+  },
+  "engineStrict" : true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubybb/node-swait.git"
+  },
+  "keywords": [
+    "sync",
+    "await",
+    "async",
+    "resolve",
+    "promises"
+  ],
+  "author": "Ruby",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rubybb/node-swait/issues"
+  },
+  "homepage": "https://github.com/rubybb/node-swait#readme"
+}
