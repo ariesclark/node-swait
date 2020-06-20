@@ -8,7 +8,7 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2020?style=for-the-badge)
 ![Keywords](https://img.shields.io/github/package-json/keywords/rubybb/node-swait?style=for-the-badge)
 ![GitHub search hit counter](https://img.shields.io/github/search/rubybb/node-swait/swait?style=for-the-badge)
-![Discord](https://img.shields.io/discord/418093857394262020?style=for-the-badge)](https://discord.gg/https://discord.gg/w2EF4z)
+![Discord](https://img.shields.io/discord/418093857394262020?style=for-the-badge)](https://discord.gg/w2EF4z)
 
 ##### Installation
 ```
