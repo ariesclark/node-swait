@@ -1,5 +1,10 @@
 # Swait
 **S**ynchronously **wait** for Promises to resolve.
+![GitHub last commit](https://img.shields.io/github/last-commit/rubybb/node-swait?style=for-the-badge)
+![npm bundle size](https://img.shields.io/bundlephobia/minzip/swait?style=for-the-badge)
+![node-current](https://img.shields.io/node/v/swait?style=for-the-badge)
+![Maintenance](https://img.shields.io/maintenance/yes/2020?style=for-the-badge)
+![Keywords](https://img.shields.io/github/package-json/keywords/rubybb/node-swait?style=for-the-badge)
 
 ##### Installation
 ```
